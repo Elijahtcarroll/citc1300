@@ -1,0 +1,32 @@
+nav{
+    text-align: center;
+    margin: 20px;
+}
+
+body{
+    background-color: black ;
+    color: #322F2F ;
+}
+#container  {
+    background-color: whitesmoke;
+    width: 1000px;
+    margin: 20px auto;
+    border: 5px #301934;
+    padding: 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+nav a   {
+    font-size: 30px;
+    color: blue;
+}
+nav a:hover {
+    text-decoration: none;
+}
+
+h1, h2, h3  {
+    text-align: center;
+}
