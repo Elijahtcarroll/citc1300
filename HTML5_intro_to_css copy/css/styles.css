@@ -30,7 +30,7 @@ body{
 }
 #container  {
     background-color: whitesmoke;
-    width: 1000px;
+    width: 100%;
     margin: 20px auto;
     border: 5px #301934;
     padding: 20px;
