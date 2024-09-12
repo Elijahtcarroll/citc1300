@@ -36,7 +36,11 @@ body{
     padding: 20px;
 }
 #col1 {
-    width: 60%;
+    width: 50%;
+    border: 3px #710485;
+}
+#col2 {
+    width: 50%;
     border: 3px #710485;
 }
 .heading_style {
