@@ -37,11 +37,11 @@ body{
 }
 #col1 {
     width: 50%;
-    border: 3px #710485;
+    border: 10px #710485;
 }
 #col2 {
     width: 50%;
-    border: 3px #710485;
+    border: 10px #710485;
 }
 .heading_style {
     text-shadow: 5px 5px 5px #301934;
