@@ -44,6 +44,10 @@ img{
     width: 50%;
 }
 
+main {
+    display: flex;
+}
+
 h1, h2, h3  {
     text-align: center;
 }
