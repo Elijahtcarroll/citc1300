@@ -16,6 +16,10 @@ nav li a {
     font-size: 30px;
     font-weight: bold;
 }
+nav a:hover {
+    background-color: #535C91;
+    color: #1B1A55;
+}
 body{
     background-color: black ;
     color: #322F2F ;
