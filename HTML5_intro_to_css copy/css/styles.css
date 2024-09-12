@@ -1,8 +1,21 @@
 nav{
     text-align: center;
     margin: 20px;
-}
 
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+}
+nav li a {
+    display: block;
+    color: #710485;
+    font-size: 30px;
+    font-weight: bold;
+}
 body{
     background-color: black ;
     color: #322F2F ;
@@ -18,13 +31,6 @@ img{
     display: block;
     margin: 0 auto;
     width: 500px;
-}
-nav a   {
-    font-size: 30px;
-    color: blue;
-}
-nav a:hover {
-    text-decoration: none;
 }
 
 h1, h2, h3  {
