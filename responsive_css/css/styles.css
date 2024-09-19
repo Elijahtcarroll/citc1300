@@ -41,3 +41,7 @@ img{
         background-color: #6c91d9;
     }
 }
+
+h1, h2, h3 {
+    text-align: center;
+}
