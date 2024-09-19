@@ -31,5 +31,7 @@ img{
     }
     nav li a {
         display: block;
+        height: 25px;
+        color: #EDDDD5;
     }
 }
