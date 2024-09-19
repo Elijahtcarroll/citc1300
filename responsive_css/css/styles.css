@@ -67,3 +67,24 @@ footer {
         height: 50%;
     }
 }
+
+/* Desktop Styles */
+
+@media (min-width: 1024px){
+    #container {
+        width: 65%;
+        margin: 20px auto;
+        border: 4px solid;
+        border-radius: 20px;
+    }
+   
+    nav {
+        padding: 0;
+        margin: 0;
+    }
+    
+    nav li a {
+        background-color: #848b93;
+
+    }
+}
