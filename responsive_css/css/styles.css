@@ -18,7 +18,18 @@ img{
 /* Mobile Styles */
 @media (min-width: 320px) {
     nav {
-        background-color: #EDDDD5;
+        background-color: #848b93;
         padding: 5px;
+        text-align: center;
+    }
+    nav ul {
+        list-style-type: none;
+        padding: 0%;
+    }
+    nav li {
+        display: block;
+    }
+    nav li a {
+        display: block;
     }
 }
