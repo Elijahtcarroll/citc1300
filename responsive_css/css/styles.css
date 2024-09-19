@@ -32,6 +32,12 @@ img{
     nav li a {
         display: block;
         height: 25px;
+        line-height: 25px;
         color: #EDDDD5;
+        font-size: 20px;
+        font-style: italic;
+    }
+    nav li a:hover {
+        background-color: #6c91d9;
     }
 }
