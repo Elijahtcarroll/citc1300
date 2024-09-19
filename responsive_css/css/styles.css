@@ -59,5 +59,7 @@ footer {
     }
     nav li a {
         width: 150 px;
+        height: 50px;
+        line-height: 50px;
     }
 }
