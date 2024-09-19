@@ -28,6 +28,7 @@ img{
     }
     nav li {
         display: block;
+        width: 75px;
     }
     nav li a {
         display: block;
@@ -49,4 +50,15 @@ h1, h2, h3 {
 }
 footer {
     text-align: center;
+}
+
+/* Tablet Style */
+
+@media (min-width:768px) {
+    nav li {
+        display: inline-block;
+    }
+    nav li a {
+        width: 150 px;
+    }
 }
