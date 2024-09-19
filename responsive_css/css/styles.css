@@ -9,6 +9,10 @@ img{
     width: 75%;
     height: 75%;
 }
+.image_class {
+    width: 50%;
+    height: 50%;
+}
 
 #container {
     background-color: #2a4359;
@@ -99,4 +103,5 @@ footer {
         padding: 5px;
         border: 2px solid;
     }
+    
 }
