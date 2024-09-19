@@ -44,4 +44,9 @@ img{
 
 h1, h2, h3 {
     text-align: center;
+    color: #EDDDD5;
+    text-shadow: 2px 2px 2px #bea399;
+}
+footer {
+    text-align: center;
 }
