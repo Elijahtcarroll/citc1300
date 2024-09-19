@@ -31,7 +31,7 @@ img{
     }
     nav li a {
         display: block;
-        width: 150px;
+        height: 25px;
         line-height: 25px;
         color: #EDDDD5;
         font-size: 20px;
