@@ -84,6 +84,19 @@ footer {
 
     nav li a {
         background-color: #848b93;
+    }
 
+    hr {
+        display: none;
+    }
+
+    .multi_col {
+        display: flex;
+    }
+
+    .col {
+        margin: 10px;
+        padding: 5px;
+        border: 2px solid;
     }
 }
