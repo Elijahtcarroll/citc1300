@@ -28,10 +28,10 @@ img{
     }
     nav li {
         display: block;
-        width: 75px;
     }
     nav li a {
         display: block;
+        width: 75px;
         height: 25px;
         line-height: 25px;
         color: #EDDDD5;
