@@ -17,7 +17,9 @@ img{
 #container {
     background-color: #2a4359;
 }
-
+div.a {
+    line-height: 50%;
+}
 
 /* Mobile Styles */
 @media (min-width: 320px) {
