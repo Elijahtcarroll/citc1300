@@ -20,7 +20,11 @@ img{
 nav {
     line-height: 20px;
 }
-
+.heading_style{
+    text-align: center;
+    color: #EDDDD5;
+    text-shadow: 2px 2px 2px #bea399;
+}
 /* Mobile Styles */
 @media (min-width: 320px) {
     nav {
